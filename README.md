@@ -1,0 +1,2 @@
+# BreakTheRules
+A game that break the rules, it's hardcore. Everything what happens in game, depends on your moves and actions. No familiar things. Spikes that you can move? Strange tetris? Things that even we can't understand? If you want to see this, Break the Rules is what you need, and remember forget about the rules and the force will be with you. We do not support broken screens after playing a game like Flappy Bird.
